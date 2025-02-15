@@ -6,7 +6,7 @@
 异常：如遇问题，Loon可以进入[配置]→[持久化缓存]→[删除指定数据]→输入Key[sub-store-cached-script-resource][sub-store-nodes][sub-store-proxies]并删除缓存。Surge需要进入[脚本编辑器]→左下角[设置]→[$persistentStore]→[sub-store-cached-script-resource][sub-store-nodes][sub-store-proxies]删除缓存数据。
 用法：Sub-Store脚本操作里添加，缓存默认48小时。
 日期：2025-02-15 13:50:38
-示例：https://raw.githubusercontent.com/0xiaoluli0/-/refs/heads/main/sub-store-rename.js#bs=10&timeout=2000&cd=2000&iisp&flag&city&fgf=→&name=[方括号内填写你的机场名称]
+示例：https://raw.githubusercontent.com/0xiaoluli0/sub_rename/refs/heads/main/sub-store-rename.js#bs=10&timeout=2000&cd=2000&iisp&flag&city&fgf=→&name=[方括号内填写你的机场名称]
 ----------------
 以下是此脚本支持的参数，必须以"#"开头，多个参数使用"&"连接，参考上述地址为例使用参数；
 无参数时的节点命名格式: "美国 01"，如果[入口IP或国家]或[落地IP或国家]一样则为 "直连 德国 01"；
