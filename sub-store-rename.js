@@ -61,8 +61,6 @@ const SUB_STORE_SCHEMA = {
   title: "节点处理器",
   description: "根据接口返回的真实结果，重新对节点命名/去重。 如：入口/落地详细地区信息",
   scope: ["Surge", "Loon"],
-  author: "@Key @奶茶姐 @小一 @可莉",
-  updateTime: "2023-11-11 18:26:00",
   version: "1.2.2",
   params: {
     flag: {
